@@ -42,5 +42,5 @@
   return false;
 };
 
-// Approach 1- Using sorting
+// Approach 2 - Using sorting
 // Time - O(NlogN) | Space - O(1)
