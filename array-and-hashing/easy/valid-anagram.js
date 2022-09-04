@@ -40,5 +40,5 @@
     return Object.values(strObj).every(str => str === 0)
 };
 
-// Approach 1- Using sorting and compare the both strings
+// Approach 2 - Using sorting and compare the both strings
 // Time - O(N) | Space - O(1)
